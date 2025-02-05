@@ -1,4 +1,4 @@
-# excel-portfolio-project
+# excel-portfolio-projects
 
 ![image](https://github.com/user-attachments/assets/9dc67d87-5a40-47cf-a702-69295df92c24)
 
