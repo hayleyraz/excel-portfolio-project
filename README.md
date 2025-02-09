@@ -12,7 +12,7 @@ Project 1: Insights of Customers' Spending Preferences
 Project 2: Prediction of Energy Consumption 
 - Overview: Conducted linear regression to identify and analysis key coefficients to better predict the amount of energy consumed 
 - Key Features: Data Analysis Tool for Linear Regression Summary Outputs
-- Analysis: Energy consumption is heavily determined by the building type
+- Analysis: Energy consumption is heavily determined by the type of building the occupants are living in
 
 <img width="1409" alt="Screenshot 2025-02-06 at 5 55 31 PM" src="https://github.com/user-attachments/assets/ef735db7-619c-4d4c-b4c3-94a998dbfc1e" />
 
@@ -21,4 +21,5 @@ Project 3: Sales Performance Tracker
 - Key Features: Pivot tables and conditional formatting to highlight sales, profitability, and expenses 
 - Outcome: Provided actionable insights to key stakeholders, improving the decision-making process in profitability
 
-<img width="1415" alt="Screenshot 2025-02-09 at 10 20 21 PM" src="https://github.com/user-attachments/assets/3cf7b5e5-1310-47d6-82c6-65fbc1aa562f" />
+<img width="1414" alt="Screenshot 2025-02-09 at 10 33 34 PM" src="https://github.com/user-attachments/assets/7934f236-cd60-49e2-939d-8065c2519b21" />
+
