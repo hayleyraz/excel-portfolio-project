@@ -30,3 +30,9 @@ Project 4: Dashboard for Analysis of Marketing Campaigns
   
 ![Screenshot 2025-02-11 at 10 30 02 PM](https://github.com/user-attachments/assets/41ba59cb-4500-402b-87a5-fa4698d989df)
 
+Project 5: Dashboard for Project Management 
+- Overview: Developed a dashboard that tracks project progress per department 
+- Key Features: Power Query for ETL, INDEX-MATCH, Gantt charts for task updates
+- Outcome: Provided project status updates, enhancing project management efficiency
+
+![Screenshot 2025-02-14 at 5 02 18 PM](https://github.com/user-attachments/assets/d30c0ec8-ddde-4fc1-9079-1516583e5a91)
